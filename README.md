@@ -18,13 +18,6 @@
 <img alt="filament-logo" src="https://larazeus.com/images/filament-sponsor-banner.webp">
 </a>
 
-## features
-- 🔥 keeping it simple, close to the default filament theme
-- 🔥 better default icons
-- 🔥 sidebar is back!
-
-And more on the way.
-
 ## Installation
 
 ### composer
